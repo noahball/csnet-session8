@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- https://www.schemecolor.com/sea-theme.php -->
+    <color name="cyan_azure">#C22B44</color>
+    <color name="iceburg">#000000</color>
+    <color name="crystal">#000000</color>
+    <color name="milk">#000000</color>
+    <color name="water">#C22B44</color>
+    <color name="powder_blue">#B1E8DC</color>
+</resources>
